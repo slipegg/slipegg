@@ -5,8 +5,6 @@
 - 😄 I'm always excited to learn new things and discuss ideas with others. 
 - 📫 Email: ahuahuadan@qq.com
 
-<p align="center">
-  <a href="https://github.com/slipegg" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=slipegg&title_color=333&text_color=777" alt="klb's Stats" >
-  </a>
-</p>    
+![Liu Jiawen's GitHub stats](https://github-readme-stats.vercel.app/api?username=slipegg&title_color=10&text_color=777&count_private=true&show_icons=true&hide=contribs,issues)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/slipegg/count.svg) visitor, Thank You!🎉🎉
