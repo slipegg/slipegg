@@ -6,5 +6,3 @@
 - 📫 Email: ahuahuadan@qq.com
 
 ![Liu Jiawen's GitHub stats](https://github-readme-stats.vercel.app/api?username=slipegg&title_color=10&text_color=777&count_private=true&show_icons=true&hide=contribs,issues)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/slipegg/count.svg) visitor, Thank You!🎉🎉
