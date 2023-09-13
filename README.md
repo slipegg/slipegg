@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Liu Jiawen 
 
-- 🔭 I am currently a master's student in computer science at Tongji University
+- 🔭 I am currently a master's student in computer science at Tongji University🏫.
 - 🎓 I graduated from Tongji University with a bachelor's degree in information security.
 - 🌱 I'm researching topics related to cloud computing ☁️.
 - 💼 I once worked as a data platform development intern at Megvii, and also worked as an AI heterogeneous computing and performance optimization intern at Alibaba Cloud.
