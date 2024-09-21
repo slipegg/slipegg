@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Liu Jiawen 
 
-- 🔭 I am currently a master's student in Computer Science and Technology at Tongji University (expected to graduate in March 2026)🏫.
+- 🔭 I am currently a master's student in Computer Science and Technology at Tongji University (expected to graduate in March 2026).
 - 🎓 I graduated from Tongji University with a bachelor's degree in information security.
 - 🌱 I'm researching topics related to cloud computing and AI infra.
 - 💼 I once worked as：
