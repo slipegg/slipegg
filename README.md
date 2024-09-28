@@ -9,6 +9,6 @@
   + an autonomous driving data platform development intern at [Megvii](https://www.megvii.com/)(2022.11~2023.03).
 - 📜 My first scientific paper about [LGDCloudSim](https://github.com/slipegg/LGDCloudSim) won a Best Student Paper award at [IEEE CLOUD 2024](https://cloud.conferences.computer.org/2024/).
 - 🌐 Welcome to my blog: [https://slipegg.github.io/](https://slipegg.github.io/)
-- 📫 Email: ahuahuadan@qq.com
+- 📫 Email: javen@tongji.edu.cn
 
 ![Liu Jiawen's GitHub stats](https://github-readme-stats.vercel.app/api?username=slipegg&title_color=10&text_color=777&count_private=true&show_icons=true&hide=contribs,issues)
