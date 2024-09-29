@@ -4,9 +4,9 @@
 - 🎓 I graduated from Tongji University with a bachelor's degree in information security.
 - 🌱 I'm researching topics related to cloud computing and AI infra.
 - 💼 I once worked as：
-  + a machine learning platform-k8s development intern at [Minghong Investment](https://www.mhfunds.com/)(2024.06~2024.09).
-  + an AI heterogeneous computing and performance optimization intern at [Alibaba Cloud](https://www.aliyun.com/)(2023.05~2023.09).
-  + an autonomous driving data platform development intern at [Megvii](https://www.megvii.com/)(2022.11~2023.03).
+  + a machine learning platform-k8s development intern at [Minghong Investment](https://www.mhfunds.com/).
+  + an AI heterogeneous computing and performance optimization intern at [Alibaba Cloud](https://www.aliyun.com/).
+  + an autonomous driving data platform development intern at [Megvii](https://www.megvii.com/).
 - 📜 My first scientific paper about [LGDCloudSim](https://github.com/slipegg/LGDCloudSim) won a Best Student Paper award at [IEEE CLOUD 2024](https://cloud.conferences.computer.org/2024/).
 - 🌐 Welcome to my blog: [https://slipegg.github.io/](https://slipegg.github.io/)
 - 📫 Email: javen@tongji.edu.cn
