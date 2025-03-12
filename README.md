@@ -7,6 +7,8 @@
   + a machine learning platform-k8s development intern at [Minghong Investment](https://www.mhfunds.com/).
   + an AI heterogeneous computing and performance optimization intern at [Alibaba Cloud](https://www.aliyun.com/).
   + an autonomous driving data platform development intern at [Megvii](https://www.megvii.com/).
+- 🔧 I am actively looking for opportunities to contribute to the open-source community. Here is my previous work:
+  + I participated in [Summer OSPP](https://summer-ospp.ac.cn/) 2024 and added [godel-scheduler](https://github.com/kubewharf/godel-scheduler)'s pod inter-affinity, anti-affinity, and topology spread features.
 - 📜 My first scientific paper about [LGDCloudSim](https://github.com/slipegg/LGDCloudSim) won a Best Student Paper award at [IEEE CLOUD 2024](https://cloud.conferences.computer.org/2024/).
 - 🌐 Welcome to my blog: [https://slipegg.github.io/](https://slipegg.github.io/)
 - 📫 Email: javen@tongji.edu.cn
